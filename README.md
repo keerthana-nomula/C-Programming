@@ -1,2 +1,10 @@
 # C-Programming
-A collection of C programming programs and problem solving exercises
+This repository contains my  C programming programs and problem solving exercises
+## Topics covered
+-Basics
+-Loops
+-Arrays
+-Functions
+-Strings
+-Pointers
+-Patterns
