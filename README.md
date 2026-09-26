@@ -7,6 +7,6 @@ This repository contains my  C programming programs and problem solving exercise
 04-Loops
 05-Arrays
 06-Strings
-08-Functions
-09-Pointers
-10-Structures
+07-Functions
+08-Pointers
+09-Structures
